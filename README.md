@@ -1,5 +1,7 @@
 # Pocket-notes
 This is a react project(Notes taking app) which I made with the help of learn.cuvette.tech. 
+
+
 Features List:
 - User should be able to create group for notes
 - User should be able to add notes in a particular group
